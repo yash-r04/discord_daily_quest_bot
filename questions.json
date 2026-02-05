@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "topic": "Quant",
+    "year": 2019,
+    "question": "If x + 1/x = 5, find x^2 + 1/x^2.",
+    "answer": "23"
+  },
+  {
+    "id": 2,
+    "topic": "Quant",
+    "year": 2020,
+    "question": "What is 15% of 200?",
+    "answer": "30"
+  }
+]
